@@ -2,7 +2,7 @@
 backend django rest framework and frontend Vue.js 
 we will implement token based authentication to vue.js
 
-Requirements:
+Requirements:/br
 asgiref==3.7.2
 certifi==2023.11.17
 cffi==1.16.0
